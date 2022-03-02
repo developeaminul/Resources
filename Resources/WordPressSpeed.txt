@@ -1,0 +1,20 @@
+Steps 
+1. Checklist
+2. Server Optimization 
+3. Image Optimization and Formate 
+Image Size (PX) - Designer EndImage Compression 
+4. Google Page Speed Learning 
+Fixing WebFontFixing all issues one by one  
+5. Working on Cache for Server + WordPress
+6. Theme + Plugin Developer Guideline 
+Code Structure Use Latest version of jQuery  
+7. CDN
+8. Fixing Required Plugin issue
+Elementor BuilderEkitsMetform
+9. 
+
+
+
+
+
+

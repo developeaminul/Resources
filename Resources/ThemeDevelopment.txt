@@ -1,0 +1,18 @@
+Guide to Your First WordPress Framework
+
+Description:
+WordPress নিয়ে যারা কাজ করছেন, Theme অথবা Plugin Developer, এইটা দেখে নিতে পারেন।
+
+এখানে দেখানো হয়েছে, Theme টা কিভাবে কাজ করে, কেন কাজ করে, কোন Function কিসের জন্যে এবং আপনার যেটা দরকার সে Function কি আদ্য আছে কি-না, জেনে নিতে পারেন।
+
+WordPress tutorial গুলোর মধ্যে এইটা অনেক ভালো হইছে।
+
+YouTube Link:
+https://www.youtube.com/watch?v=ETRNXM843L4&list=PLDU-MMORNL_8Emnv0GKyNNfwd9MJkK7L1&ab_cha
+nnel=PrivateVideo
+
+
+Before image upload on live server must be convert webp format
+
+https://www.freeconvert.com/webp-converter/ 
+

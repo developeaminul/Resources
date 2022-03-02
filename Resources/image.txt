@@ -1,0 +1,61 @@
+Image Usage Guideline
+
+Tool:
+
+Use a premium tool for taking screenshots, ideally Droplr. You can also use Lightshot, ShareX, etc.  
+
+Zoom-in:
+
+Zoom in to focus on the subject before taking a screenshot. 
+
+Image Dimensions:
+
+Make sure the image width and height (W X H) px is: 919 x 500. You can change the height (+/-) if required. But NEVER change (+/-) the width. 
+
+Shape:
+
+Do not make any screenshot round manually. Take and use a screenshot from a square or by default angle. 
+
+
+Theme:
+
+Use either the Hello Elementor or Astra theme on your localhost website. Please be careful about the background. Keep it white or clean in color.
+
+Indications/Annotations:
+
+Make sure that the marked portion in the image is pointed with arrows and explained with clearly readable texts. 
+
+Compression:
+
+Compress all the images before uploading them to the website. Use https://tinypng.com or https://compresspng.com site for compressing images. If it is a gif image, you can use https://gifcompressor.com/ 
+
+Naming:
+
+Give the screenshots names following the guidelines below: 
+
+Be specific and precise (so that anyone can understand)
+Use lowercase
+Never use a numeric number
+Name the image before uploading it to your PC
+Use underscore (_) for naming
+
+Remove Duplicates:
+
+Always remove the duplicate screenshots/images when you replace them. 
+
+
+Use Alt Tag:
+
+Always use alt tags for all the uploaded images. 
+Use the focus keyword as the alt attribute
+
+Avoid Copyrighted Images:
+
+Do not use any copyrighted images in any blog/documentation. 
+You can use copyright-free images from Google and Image Sharing websites (Pixabay, Pexels, etc.) 
+In case you don’t get the image you need from any other sources, get your required image designed by the designer. 
+
+
+Featured Image :
+
+Assign and give a brief to a designer for making featured images for the blogs. 

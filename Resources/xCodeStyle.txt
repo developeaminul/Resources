@@ -1,0 +1,13 @@
+https://docs.google.com/presentation/d/1se9bGiv_FzbNu__ZDVE8FsoZb30fk6Gc4-aH-723ivs/edit#slide=id.p
+
+
+https://docs.google.com/document/d/197ibLPrIGTqBXSymhGxMRYlmWprMyc2vLKaTbMUruF0/edit#heading=h.wx8b4a8zoodk
+
+
+https://code.tutsplus.com/articles/wordpress-coding-standards-naming-conventions-function-arguments--wp-31683
+
+
+https://make.wordpress.org/core/handbook/best-practices/inline-documentation-standards/php/
+
+
+https://developer.wordpress.org/coding-standards/wordpress-coding-standards/php/

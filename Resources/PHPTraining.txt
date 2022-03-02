@@ -1,0 +1,30 @@
+Topic: Training on PHP (Posts Query details)
+Date: 22 June, 2020 (Monday)
+By: Atiqur Rahman, Emran, XpeedStudio
+Ask any questions: Atiqur Rahman, Emran
+
+
+Presentation Slide:
+https://docs.google.com/presentation/d/1tPZe9yiyZEVvwnfHtwCmayefMq7b-5jx7L4YFHBY6Ps/edit?usp=sharing
+
+
+
+Video Recording:
+
+https://www.youtube.com/watch?v=3jQJMYNsiHc
+
+
+
+Topic: PHP Coding Style for our plugins
+Date: 9 June, 2020 (Tuesday)
+By: Emran, XpeedStudio
+Ask any questions: Emran, Atiqur Rahman
+
+
+Presentation Slide:
+https://docs.google.com/presentation/d/1se9bGiv_FzbNu__ZDVE8FsoZb30fk6Gc4-aH-723ivs/edit?usp=sharing
+
+
+
+Video Recording:
+https://www.youtube.com/watch?v=3ebNly5SRe0
